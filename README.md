@@ -1,5 +1,3 @@
-# Student-Learning-AI-Usage-Analysis
-End to end Data Analytics project using Python, PostgreSQL and Power BI to analyze the impact of AI usage on students' academic performance and well-being.
 # 📊 AI Student Impact Analysis
 
 An end-to-end Data Analytics project that analyzes how Generative AI influences students' academic performance, learning behavior, and well-being. The project combines Python, PostgreSQL, SQL, and Power BI to transform raw data into actionable insights.
